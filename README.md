@@ -1,6 +1,7 @@
 ## React JWT Login
 
 This project contains a simple login form which uses an API at the backend and the API uses JWT for authentication<br>
+The related blog post is https://www.aceinthedeck.com/reactjs-and-jwt-login/ which explains this project.
 
 An example API in Dotnet core is [here](https://github.com/aceinthedeck/JwtAPI).<br>
 and related blog post is https://aceinthedeck.com/json-web-token-jwt-authentication-using-asp-net-core-api/
